@@ -1,0 +1,9 @@
+C:\Users\Spart\source\repos\EditorDeTexto\bin\Debug\EditorDeTexto.exe.config
+C:\Users\Spart\source\repos\EditorDeTexto\bin\Debug\EditorDeTexto.exe
+C:\Users\Spart\source\repos\EditorDeTexto\bin\Debug\EditorDeTexto.pdb
+C:\Users\Spart\source\repos\EditorDeTexto\obj\Debug\EditorDeTexto.Form1.resources
+C:\Users\Spart\source\repos\EditorDeTexto\obj\Debug\EditorDeTexto.Properties.Resources.resources
+C:\Users\Spart\source\repos\EditorDeTexto\obj\Debug\EditorDeTexto.csproj.GenerateResource.cache
+C:\Users\Spart\source\repos\EditorDeTexto\obj\Debug\EditorDeTexto.csproj.CoreCompileInputs.cache
+C:\Users\Spart\source\repos\EditorDeTexto\obj\Debug\EditorDeTexto.exe
+C:\Users\Spart\source\repos\EditorDeTexto\obj\Debug\EditorDeTexto.pdb
